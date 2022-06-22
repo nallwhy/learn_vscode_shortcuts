@@ -1,4 +1,4 @@
-# Learn VSCode Shortcuts (Mac)
+# Learn VSCode Shortcuts (Windows)
 
 https://code.visualstudio.com/docs/getstarted/keybindings
 
@@ -6,7 +6,7 @@ https://code.visualstudio.com/docs/getstarted/keybindings
 
 Table of Contents
 
-- [Learn VSCode Shortcuts (Mac)](#learn-vscode-shortcuts-mac)
+- [Learn VSCode Shortcuts (Windows)](#learn-vscode-shortcuts-windows)
   - [Symbols](#symbols)
   - [Navigation](#navigation)
     - [Practice](#practice)
