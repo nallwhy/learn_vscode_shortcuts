@@ -137,7 +137,7 @@ Table of Contents
 
 ## Add Custom Shortcuts
 
-1. Open `Keyboard Shortcurs` with `⌘K ⌘S`.
+1. Open `Keyboard Shortcuts` with `⌘K ⌘S`.
 2. Click `Open Keyboard Shortcuts (JSON)` on the right top corner.
 3. Copy & paste the code below in the JSON array.
 4. Use `⌃⌥↓` to go to 5 lines below.
