@@ -1,4 +1,4 @@
-# Learn VSCode Shortcuts (Mac)
+# Learn VSCode Shortcuts
 
 https://code.visualstudio.com/docs/getstarted/keybindings
 
